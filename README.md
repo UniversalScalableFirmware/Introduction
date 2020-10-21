@@ -14,14 +14,28 @@ The specification source is maintained in restructured text format and is availa
 
 A few example implementations of the Universal Payload specification are available.
 
-### UEFI Payload
-
-An implementation of UEFI Payload using EDKII is available as a branch in a mirrored EDK2 repository
-`https://github.com/universalpayload/edk2/tree/universal_payload`
-
 ### Slim Bootloader
 
-An implementation of Slim Bootloader implementing the Universal Payload specification is available as a branch in a mirrored SBL repository
+An POC implementation of Slim Bootloader conforming to the Universal Payload specification
 `https://github.com/universalpayload/slimbootloader/tree/universal_payload`
 
+### coreboot
 
+An POC implementation of coreboot conforming to the Universal Payload specification
+`https://github.com/universalpayload/coreboot/tree/universal_payload
+
+### UEFI Payload
+
+An POC implementation of UEFI Payload conforming to universal payload specification.
+`https://github.com/universalpayload/edk2/tree/universal_payload
+
+### Linux Payload
+
+An POC implementation of Linux Payload containing necessary patches to build a basic Linux payload conforming to the universal payload specification.
+`https://github.com/universalpayload/linuxpayload
+
+### Tools
+
+The pack_payload.py tool can be used to pack a normal payload image into the universal payload image format
+The clone_and_build_sbl_with_uefipayload.py tool could clone and build SBL + UEFI payload to have a quick try.
+`https://github.com/universalpayload/tools
