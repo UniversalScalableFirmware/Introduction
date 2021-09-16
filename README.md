@@ -5,7 +5,7 @@ Welcome to the Universal Payload project. The goal of this project is to define 
 ## Specification
  
 The interface specification is at 
-https://universalpayload.github.io/documentation/spec/spec.html
+https://universalpayload.github.io/documentation/
 
 The specification source is maintained in restructured text format and is available at 
 https://github.com/universalpayload/documentation
