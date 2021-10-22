@@ -14,26 +14,26 @@ https://github.com/UniversalScalableFirmware/documentation
 
 ## Sandboxes
 
-A few example implementations of the Universal Payload specification are available.
+Some sandbox implementations done as proof of concept of the Universal Scalable Firmware specification are available.
 
 ### Slim Bootloader
 
-An POC implementation of Slim Bootloader conforming to the Universal Payload specification
+An POC implementation of Slim Bootloader 
 https://github.com/UniversalScalableFirmware/slimbootloader
 
 ### coreboot
 
-An POC implementation of coreboot conforming to the Universal Payload specification
+An POC implementation of coreboot 
 https://github.com/UniversalScalableFirmware/coreboot
 
 ### UEFI Payload
 
-An POC implementation of UEFI Payload conforming to universal payload specification.
+An POC implementation of UEFI Payload 
 https://github.com/UniversalScalableFirmware/upld_test
 
 ### Linux Payload
 
-An POC implementation of Linux Payload containing necessary patches to build a basic Linux payload conforming to the universal payload specification.
+An POC implementation of Linux Payload containing necessary patches to build a basic Linux payload
 https://github.com/UniversalScalableFirmware/linuxpayload
 
 ### Tools
