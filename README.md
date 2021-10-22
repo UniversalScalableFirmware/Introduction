@@ -2,6 +2,8 @@
 
 Welcome to the Universal Scalable Firmware project. The goal of the Universal Scalable Firmware project is to evolve the goodness of modularity to scale for IP FW development model, with emphasis on simplicity, scalability, debuggability, readability and determinism.
 
+An **overview** of Universal Scalable Firmware project can be read here https://github.com/UniversalScalableFirmware/Introduction/blob/main/USF_Overview.pdf
+
 ## Specification
  
 The interface specification is at 
