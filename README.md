@@ -41,3 +41,8 @@ https://github.com/UniversalScalableFirmware/linuxpayload
 The pack_payload.py tool can be used to pack a normal payload image into the universal payload image format
 The clone_and_build_sbl_with_uefipayload.py tool could clone and build SBL + UEFI payload to have a quick try.
 https://github.com/UniversalScalableFirmware/tools
+
+### Training
+
+USF Training Videos can be viewed https://www.youtube.com/watch?v=OBU7kIdbUY0&list=PLehYIRQs6PR5N73cbW8CPvU_stDTAG_j5
+USF Training PDFs https://github.com/UniversalScalableFirmware/Introduction/USF_Training
